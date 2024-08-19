@@ -8,7 +8,7 @@ PotatoGameShop: Made global platforms accessible via local payments (bKash, Naga
 PotatoTech: Online mobile phone shop focused on second-hand premium devices.
 💡 Skills and interests:
 
-Business strategy
-Tech innovation
-Web development (learning)
+* Business strategy
+* Tech innovation
+* Web development (learning)
 📫 Let's connect! Feel free to reach out if you'd like to collaborate or chat.
